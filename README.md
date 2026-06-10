@@ -16,11 +16,11 @@ A tool for verifying vendor SOC 2 and ISO 27001 certifications via live web rese
 
 ## Screenshots
 
-### Single vendor mode
-![Single vendor input](Screenshots/Cert-Scanner-3.png)
-
 ### Bulk upload mode
 ![Bulk upload](Screenshots/Cert-Scanner-2.png)
+
+### Bulk scanner running
+![Single vendor input](Screenshots/Cert-Scanner-3.png)
 
 ### Scan results — expanded view
 ![Expanded cert detail](Screenshots/Cert-Scanner-4.png)
