@@ -2,7 +2,7 @@
 
 A tool for verifying vendor SOC 2 and ISO 27001 certifications via live web research. Scan a single vendor or upload a bulk list — results include trust center links, access levels, and Statement of Applicability (SoA) availability.
 
-![Scanner in action](Cert-Scanner-1.png)
+![Scanner in action](Screenshots/Cert-Scanner-1.png)
 
 ## Features
 
@@ -17,13 +17,13 @@ A tool for verifying vendor SOC 2 and ISO 27001 certifications via live web rese
 ## Screenshots
 
 ### Single vendor mode
-![Single vendor input](Cert-Scanner-3.png)
+![Single vendor input](Screenshots/Cert-Scanner-3.png)
 
 ### Bulk upload mode
-![Bulk upload](Cert-Scanner-2.png)
+![Bulk upload](Screenshots/Cert-Scanner-2.png)
 
 ### Scan results — expanded view
-![Expanded cert detail](Cert-Scanner-4.png)
+![Expanded cert detail](Screenshots/Cert-Scanner-4.png)
 
 ## Usage
 
