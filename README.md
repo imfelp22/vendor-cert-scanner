@@ -1,6 +1,8 @@
 # vendor-cert-scanner
 
-A tool for verifying vendor SOC 2 and ISO 27001 certifications via live web research.
+A tool for verifying vendor SOC 2 and ISO 27001 certifications via live web research. Scan a single vendor or upload a bulk list — results include trust center links, access levels, and Statement of Applicability (SoA) availability.
+
+![Scanner in action](Cert-Scanner-1.png)
 
 ## Features
 
@@ -8,8 +10,20 @@ A tool for verifying vendor SOC 2 and ISO 27001 certifications via live web rese
 - Live API calls with web search via the Anthropic API
 - SOC 2 and ISO 27001 status badges: `verified` / `claimed` / `not_found` / `expired`
 - Statement of Applicability (SoA) tracking for ISO 27001
-- Deep-links to trust portals rather than generic marketing pages
+- Deep-links to trust portals, not generic marketing pages
+- Public vs. NDA-gated access indicators
 - Saved vendor library with search, filter, and CSV export
+
+## Screenshots
+
+### Single vendor mode
+![Single vendor input](Cert-Scanner-3.png)
+
+### Bulk upload mode
+![Bulk upload](Cert-Scanner-2.png)
+
+### Scan results — expanded view
+![Expanded cert detail](Cert-Scanner-4.png)
 
 ## Usage
 
